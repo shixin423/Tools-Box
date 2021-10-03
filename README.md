@@ -1,4 +1,4 @@
-# 类似一个木函的一款多功能工具箱App，八大分类，100+个小工具，以一敌百
+# 呆萌助手-媲美一个木函
 
 出售呆萌助手源代码，联系[QQ1602965165](https://qm.qq.com/cgi-bin/qm/qr?k=cZHXxI-X4jmH_pU5U2FmwGJkjc69aFX2&noverify=0)
 
