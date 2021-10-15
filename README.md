@@ -1,11 +1,11 @@
-# 呆萌助手-媲美一个木函
+# 噬心工具箱-媲美一个木函
 
 低价出售呆萌助手源代码，联系：[QQ1602965165](https://qm.qq.com/cgi-bin/qm/qr?k=cZHXxI-X4jmH_pU5U2FmwGJkjc69aFX2&noverify=0)
 
 软件UI设计使用谷歌Material Design2设计风格
 软件共100+功能，八大分类，以一顶百，类似一个木函与实用工具箱的一款安卓项目
 
-成品Demo：[呆萌助手-1.1.8](https://wwa.lanzoui.com/i4Dyiui92va)
+成品Demo：[噬心工具箱-1.2.0](https://wwa.lanzoui.com/inxiGuyrpbc)
 
 日常工具：刻度尺,指南针,水平仪,量角器,Google翻译,网页获源,短网址生成,简易画板,LED手机字幕,时间屏幕,历史上的今天,每日60秒早报,VIP影视解析,IPTV电视直播,直播中国,恋爱话术-撩妹,QQ变音
 
