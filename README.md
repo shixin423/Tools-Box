@@ -6,6 +6,7 @@
 软件共100+功能，八大分类，以一顶百，类似一个木函与实用工具箱的一款安卓项目
 
 新版本成品:[简助手-1.1.2](https://wws.lanzouj.com/iQNGk022d5oh)
+
 成品Demo：[噬心工具箱-1.2.0](https://wwa.lanzoui.com/inxiGuyrpbc)
 
 日常工具：刻度尺,指南针,水平仪,量角器,Google翻译,网页获源,短网址生成,简易画板,LED手机字幕,时间屏幕,历史上的今天,每日60秒早报,VIP影视解析,IPTV电视直播,直播中国,恋爱话术-撩妹,QQ变音
@@ -23,6 +24,10 @@
 文字工具：拆字,摩斯电码,Base64加解密,RC4加解密,数字转上下标,特殊文本生成,迷你英文生成,UTF-8转码
 
 其它工具：QQ临时会话,搜索隐藏QQ,QQ单项好友管理,舔狗日记,随机笑话,支付宝到账音效,金属探测器,随机一文,随机数生成,做决定/转盘
+
+![](https://github.com/shixin423/Tools-Box/raw/main/Screenshot_2022-04-07-18-25-11-818_com.shixin.toolbox.jpg)
+
+![](https://github.com/shixin423/Tools-Box/raw/main/Screenshot_2022-04-07-18-25-17-241_com.shixin.toolbox.jpg)
 
 ![](https://github.com/shixin423/---/raw/main/Screenshot_2021-10-03-13-11-41-491_com.shixin.app.jpg)
 
