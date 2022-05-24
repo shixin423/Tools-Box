@@ -1,13 +1,10 @@
-# 简助手-萌盒-呆萌助手-媲美一个木函
+# 简助手-萌盒-宇宙工具箱-呆萌助手-媲美一个木函
 
 低价出售工具箱源代码，联系：[QQ1602965165](https://qm.qq.com/cgi-bin/qm/qr?k=cZHXxI-X4jmH_pU5U2FmwGJkjc69aFX2&noverify=0)
 
-软件UI设计使用谷歌Material Design2设计风格
 软件共100+功能，八大分类，以一顶百，类似一个木函与实用工具箱的一款安卓项目
 
-新版本成品:[简助手-1.1.2](https://wws.lanzouj.com/iQNGk022d5oh)
-
-成品Demo：[噬心工具箱-1.2.0](https://wwa.lanzoui.com/inxiGuyrpbc)
+软件成品下载地址：[简助手-1.1.2](https://github.com/shixin423/Tools-Box/blob/main/%E7%AE%80%E5%8A%A9%E6%89%8B.apk?raw=true)
 
 日常工具：刻度尺,指南针,水平仪,量角器,Google翻译,网页获源,短网址生成,简易画板,LED手机字幕,时间屏幕,历史上的今天,每日60秒早报,VIP影视解析,IPTV电视直播,直播中国,恋爱话术-撩妹,QQ变音
 
@@ -28,9 +25,3 @@
 ![](https://github.com/shixin423/Tools-Box/raw/main/Screenshot_2022-04-07-18-25-11-818_com.shixin.toolbox.jpg)
 
 ![](https://github.com/shixin423/Tools-Box/raw/main/Screenshot_2022-04-07-18-25-17-241_com.shixin.toolbox.jpg)
-
-![](https://github.com/shixin423/---/raw/main/Screenshot_2021-10-03-13-11-41-491_com.shixin.app.jpg)
-
-![](https://github.com/shixin423/---/raw/main/Screenshot_2021-10-03-13-10-52-232_com.shixin.app.jpg)
-
-![](https://github.com/shixin423/---/raw/main/Screenshot_2021-10-03-13-10-55-578_com.shixin.app.jpg)
